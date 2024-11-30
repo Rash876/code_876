@@ -1,1 +1,1 @@
-# This is project born from the desire to demonstrate my competence in the area of cloud infrastracture.
+# This project is a compilation of the work that I have developed on my upskilling journey.
